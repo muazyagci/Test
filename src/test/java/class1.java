@@ -6,5 +6,7 @@ public class class1 {
 
         System.out.println("Something");
 
+        System.out.println("something more");
+
     }
 }
