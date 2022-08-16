@@ -4,5 +4,7 @@ public class class1 {
 
         System.out.println("smth");
 
+        System.out.println("Something");
+
     }
 }
